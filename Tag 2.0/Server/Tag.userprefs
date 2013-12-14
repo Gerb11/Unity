@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Human Player\HumanPlayer.cs">
+    <Files>
+      <File FileName="Assets\Obstacles\ObstaclesManager.cs" Line="28" Column="21" />
+      <File FileName="Assets\Computer Players\ComputerTagPlayer.cs" Line="13" Column="20" />
+      <File FileName="Assets\GUI\GUITextFollow.cs" Line="19" Column="5" />
+      <File FileName="Assets\Human Player\HumanPlayer.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
